@@ -1,14 +1,18 @@
 {
-  "Apcasedata": [
+  "IndiaCaseReport": [
     {
       "id": 1,
-      "Name": "Telangana State",
-      "TotalCases": "65000",
-      "TotalDeaths": "950",
-      "TotalRecovered": "15000",
-      "TotalInc": "4700",
-      "TotalDec": "0",
-      "Condition": "Need to improve"
+      "Nameap": "India (ఆంధ్ర)",
+      "TotalCasesap": "160000",
+      "TotalDeathsap": "1474",
+      "TotalRecoveredap": "82886",
+      "TotalCasesoap": "160K",
+      "TotalDeathswap": "1K",
+      "TotalRecoveredrap": "82K",
+      "TotalIncap": "52.12K+",
+      "TotalDecap": "775+",
+      "TotalRecap": "32.55K+",
+      "Conditionap": "Need to improve"
     }
   ]
 }
